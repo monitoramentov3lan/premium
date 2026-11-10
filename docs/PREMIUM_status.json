@@ -1,17 +1,173 @@
 {
   "garagem": "PREMIUM",
-  "online": 0,
-  "offline": "ERRO",
-  "last_update": "2026-11-10T17:45:11.250030-03:00",
-  "panel_url": "N/A",
-  "tgs_history": [],
+  "online": 60,
+  "offline": 1,
+  "last_update": "2026-11-10T18:05:46.143687-03:00",
+  "panel_url": "https://monitoramentov3lan.github.io/premium/COMUNICAÇÕES_PREMIUM.html",
+  "tgs_history": [
+    {
+      "data": "10/11/2026",
+      "count": 9,
+      "filename": "TGs_PREMIUM_20261110.txt"
+    },
+    {
+      "data": "09/11/2026",
+      "count": 105,
+      "filename": "TGs_PREMIUM_20261109.txt"
+    },
+    {
+      "data": "08/11/2026",
+      "count": 46,
+      "filename": "TGs_PREMIUM_20261108.txt"
+    },
+    {
+      "data": "07/11/2026",
+      "count": 77,
+      "filename": "TGs_PREMIUM_20261107.txt"
+    },
+    {
+      "data": "06/11/2026",
+      "count": 111,
+      "filename": "TGs_PREMIUM_20261106.txt"
+    },
+    {
+      "data": "05/11/2026",
+      "count": 108,
+      "filename": "TGs_PREMIUM_20261105.txt"
+    },
+    {
+      "data": "04/11/2026",
+      "count": 117,
+      "filename": "TGs_PREMIUM_20261104.txt"
+    },
+    {
+      "data": "03/11/2026",
+      "count": 107,
+      "filename": "TGs_PREMIUM_20261103.txt"
+    },
+    {
+      "data": "02/11/2026",
+      "count": 51,
+      "filename": "TGs_PREMIUM_20261102.txt"
+    },
+    {
+      "data": "01/11/2026",
+      "count": 44,
+      "filename": "TGs_PREMIUM_20261101.txt"
+    },
+    {
+      "data": "31/10/2026",
+      "count": 76,
+      "filename": "TGs_PREMIUM_20261031.txt"
+    },
+    {
+      "data": "30/10/2026",
+      "count": 113,
+      "filename": "TGs_PREMIUM_20261030.txt"
+    },
+    {
+      "data": "29/10/2026",
+      "count": 101,
+      "filename": "TGs_PREMIUM_20261029.txt"
+    },
+    {
+      "data": "28/10/2026",
+      "count": 115,
+      "filename": "TGs_PREMIUM_20261028.txt"
+    },
+    {
+      "data": "27/10/2026",
+      "count": 101,
+      "filename": "TGs_PREMIUM_20261027.txt"
+    },
+    {
+      "data": "26/10/2026",
+      "count": 109,
+      "filename": "TGs_PREMIUM_20261026.txt"
+    },
+    {
+      "data": "25/10/2026",
+      "count": 95,
+      "filename": "TGs_PREMIUM_20261025.txt"
+    },
+    {
+      "data": "24/10/2026",
+      "count": 76,
+      "filename": "TGs_PREMIUM_20261024.txt"
+    },
+    {
+      "data": "23/10/2026",
+      "count": 109,
+      "filename": "TGs_PREMIUM_20261023.txt"
+    },
+    {
+      "data": "22/10/2026",
+      "count": 105,
+      "filename": "TGs_PREMIUM_20261022.txt"
+    },
+    {
+      "data": "21/10/2026",
+      "count": 103,
+      "filename": "TGs_PREMIUM_20261021.txt"
+    },
+    {
+      "data": "20/10/2026",
+      "count": 105,
+      "filename": "TGs_PREMIUM_20261020.txt"
+    },
+    {
+      "data": "19/10/2026",
+      "count": 72,
+      "filename": "TGs_PREMIUM_20261019.txt"
+    },
+    {
+      "data": "18/10/2026",
+      "count": 49,
+      "filename": "TGs_PREMIUM_20261018.txt"
+    },
+    {
+      "data": "17/10/2026",
+      "count": 76,
+      "filename": "TGs_PREMIUM_20261017.txt"
+    },
+    {
+      "data": "16/10/2026",
+      "count": 115,
+      "filename": "TGs_PREMIUM_20261016.txt"
+    },
+    {
+      "data": "15/10/2026",
+      "count": 105,
+      "filename": "TGs_PREMIUM_20261015.txt"
+    },
+    {
+      "data": "14/10/2026",
+      "count": 106,
+      "filename": "TGs_PREMIUM_20261014.txt"
+    },
+    {
+      "data": "13/10/2026",
+      "count": 110,
+      "filename": "TGs_PREMIUM_20261013.txt"
+    },
+    {
+      "data": "12/10/2026",
+      "count": 53,
+      "filename": "TGs_PREMIUM_20261012.txt"
+    },
+    {
+      "data": "11/10/2026",
+      "count": 51,
+      "filename": "TGs_PREMIUM_20261011.txt"
+    }
+  ],
   "antenas": [
     {
       "nome": "antena1",
       "ip": "172.54.81.101",
       "status": "online",
-      "ultimo_ping": "10/11/2026 17:35:43",
-      "ultima_alteracao": "10/11/2026 17:32:43",
+      "ultimo_ping": "10/11/2026 18:05:43",
+      "ultima_alteracao": "10/11/2026 18:00:32",
       "detalhes": "HTTP 200 OK"
     }
   ]
