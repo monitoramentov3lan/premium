@@ -2,12 +2,12 @@
   "garagem": "PREMIUM",
   "online": 62,
   "offline": 0,
-  "last_update": "2026-11-17T06:35:46.135851-03:00",
+  "last_update": "2026-11-17T07:05:46.141024-03:00",
   "panel_url": "https://monitoramentov3lan.github.io/premium/COMUNICAÇÕES_PREMIUM.html",
   "tgs_history": [
     {
       "data": "17/11/2026",
-      "count": 3,
+      "count": 5,
       "filename": "TGs_PREMIUM_20261117.txt"
     },
     {
@@ -166,7 +166,7 @@
       "nome": "antena1",
       "ip": "172.54.81.101",
       "status": "offline",
-      "ultimo_ping": "17/11/2026 06:35:42",
+      "ultimo_ping": "17/11/2026 07:05:44",
       "ultima_alteracao": "17/11/2026 00:18:15",
       "detalhes": "Inacessível: HTTPConnectionPool(host='172.54.81.101', port=80): Max retries exceeded with url"
     }
